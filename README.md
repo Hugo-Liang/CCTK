@@ -32,7 +32,7 @@ bash scripts/CCTK.sh -g 0
 ### Test CCTK
 
 ```
-bash scripts/CCTK.sh -g 0 -e outputDir/checpoint-best-f1/pytorch_model.bin
+bash scripts/CCTK.sh -g 0 -e outputDir/checkpoint-best-f1/pytorch_model.bin
 ```
 
 
