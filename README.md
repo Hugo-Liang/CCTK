@@ -1,7 +1,7 @@
 # CCTK
-Replication package for the paper entitled: Commit_Classification_Using_Fused_Features_of_Code_Change
+Replication package for the paper entitled: Commit Classification Using Fused Features of Code Change
 
-Note: Datasets and related code will be uploaded soon.
+Note: Datasets, checkpoints and related code of CCTK will be uploaded soon.
 
 
 ### Data Preparation
